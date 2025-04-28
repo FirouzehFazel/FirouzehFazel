@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FirouzehFazel
-- 👀 I’m interested in digital twins, BIM, and IoT.
+- 👀 I’m interested in energy building simulation, digital twins, BIM, and IoT.
 - 🌱 I’m currently doing master's degree in smart & resilient cities.
 - ✔️ I’m looking to find an internships in digital twins / smart transportation / Revit.
 - 📫 How to reach me? firouzeh.sc@gmail.com
