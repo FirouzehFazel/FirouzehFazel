@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @FirouzehFazel
-- 👀 I’m interested in energy simulation, digital twins, BIM, and IoT.
-- ✔️ I’m currently doing my 6-month intenrhsip at Alstom Group in the energy & public transportation sector.
+- 👀 Interested in energy simulation, digital twins, BIM, and IoT.
 - 📫 How to reach me? firouzeh.sc@gmail.com
 - 😄 Pronouns: she/her
 - 👾🎮 Playing video games is my main hobby.
